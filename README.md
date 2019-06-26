@@ -1,6 +1,5 @@
-# New_Hello_World
-welcome the new world
+# IMAGE-CLASSISICATION using CIFAR-10 DATSETS
 
-this new repository
-we are going to change it
-we are moving to differnt place
+
+we are going to change it as soon as possible
+work is under process
