@@ -1,5 +1,5 @@
-# IMAGE-CLASSISICATION using CIFAR-10 DATSETS
+# IMAGE-CLASSISICATION using CIFAR-10 DATSET
 
-code written in python
+#All pipeline will be describe in detail. 
 
 work in progress..
